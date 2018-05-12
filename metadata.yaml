@@ -1,0 +1,33 @@
+_repo: Den-Waaragtigen-Omloop-des-Bloeds_18929
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leeuwenhoek, Antoni van
+    aliases:
+    - Leeuwenhoeck, Antonius
+    - Leeuwenhoek, Thonius Philips van
+    - Leeuwenhoek, Anthony van
+    birthdate: 1632
+    deathdate: 1723
+    gutenberg_agent_id: '8336'
+    url: http://www.gutenberg.org/2009/agents/8336
+    wikipedia: http://en.wikipedia.org/wiki/Anton_van_Leeuwenhoek
+description: ''
+gutenberg_bookshelf: Physiology
+gutenberg_issued: '2006-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18929'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Blood -- Circulation'
+- !lcsh 'Blood-vessels'
+- !lcc 'QP'
+title: Den Waaragtigen Omloop des Bloeds
+url: http://www.gutenberg.org/ebooks/18929
